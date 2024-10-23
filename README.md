@@ -1,1 +1,1 @@
-# hafta_03
+# 3. Hafta da yapmış olduğumuz çalışma klasörlerini içerir.
